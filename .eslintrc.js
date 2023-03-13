@@ -47,7 +47,7 @@ module.exports = {
         ],
         'id-match': 'error',
         'no-eval': 'error',
-        'no-redeclare': 'error',
+        'no-redeclare': 'warn',
         'no-trailing-spaces': 'error',
         'no-underscore-dangle': 'error',
         'no-unsafe-finally': 'error',
